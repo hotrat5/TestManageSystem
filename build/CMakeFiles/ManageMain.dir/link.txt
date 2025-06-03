@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/ManageMain.dir/ManageMain.c.o CMakeFiles/ManageMain.dir/BrowserUI.c.o CMakeFiles/ManageMain.dir/ChooseQuestions.c.o CMakeFiles/ManageMain.dir/FillInBlankQuestions.c.o CMakeFiles/ManageMain.dir/JudgmentQuestions.c.o CMakeFiles/ManageMain.dir/ProgramQuestions.c.o -o ManageMain 

@@ -1,0 +1,3 @@
+/mnt/e/VscodePrograms/YueQian/Programs/TestManageSystemV1_3/build/CMakeFiles/ManageMain.dir
+/mnt/e/VscodePrograms/YueQian/Programs/TestManageSystemV1_3/build/CMakeFiles/edit_cache.dir
+/mnt/e/VscodePrograms/YueQian/Programs/TestManageSystemV1_3/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,27 @@
+C语言标准文档和参考资源
+1. 官方标准文档
+ISO C标准
+ISO/IEC 9899:2018 (C17/C18)
+ISO/IEC 9899:2011 (C11)
+获取途径：ISO官网（需付费）
+草案文档（免费）
+N1570 - C11标准草案
+N2310 - C17标准草案
+2. 在线参考文档
+cppreference
+C语言参考
+包含完整的标准库函数说明
+有中文版本
+GNU文档
+GNU C Library Reference Manual
+POSIX标准实现参考
+3. POSIX标准
+The Open Group Base Specifications
+包含C标准库扩展函数
+4. Microsoft MSDN
+C运行时库参考
+Windows平台特定实现
+5. 开源实现参考
+musl libc
+dietlibc
+可以学习标准库的实现细节

@@ -1,0 +1,8 @@
+若定义函数float *fun( )则函数fun的返回值为,一个实数,一个指向实型变量的指针,一个指向实型函数的指针,一个实型函数的入口地址,1
+那个函数可以输入helloworld,scanf,printf,sprintf,getchar,1
+定义一个void型函数意味着调用该函数时函数,通过return返回一个用户所希望的函数值,返回一个系统默认值,没有返回值,返回一个不确定的值,1
+一个完整的C源程序是,要由一个主函数或一个以上的非主函数构成,由一个且仅由一个主函数和零个以上的非主函数�要由一个主函数和一个以上的非主函数构成,要由一个主函数和一个以上的非主函数构成,由一个且只有一个主函数或多个非主函数构成,0
+asdfghj,asdfg,zxcvb,fghj,dfghj,1
+qwertyuio,asdf,zxcvbn,sdfgh,serfghj,2
+ccccccccccccccccccc,cccccccccccccc,cccccccccccccc,ccccccccccc,ccccccccccccc,2
+dddddddddddddddddddd,ddddddddddddddddddddd,dddddddddddddddddd,dddddddddddddd,ddddddddddddddd,3
